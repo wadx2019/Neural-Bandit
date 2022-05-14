@@ -9,3 +9,5 @@ In the consideration of the lack of an modularized and open-source neural bandit
 The simulation result is shown below.
 
 ![result](https://github.com/wadx2019/Neural-bandit/blob/main/result.png)
+
+To obtain this performance, you can simply run main.py.
