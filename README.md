@@ -5,3 +5,7 @@ A collection of the pytorch implementation of neural bandit algorithm includes n
 This project contrasts the performance of neuralUCB and neuralTS with that of LinUCB and LinTS over the IRIS dataset.
 
 In the consideration of the lack of an modularized and open-source neural bandit algorithm collection, this project designed a general neural bandit framework to make it convenient for users to apply neural bandit algorithms in their own project. 
+
+The simulation result is shown below.
+
+![result](https://github.com/wadx2019/Neural-bandit/result.png)
